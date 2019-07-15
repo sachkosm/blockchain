@@ -23,7 +23,7 @@ command line:
 
 ```bash
 # Clone this repository
-# it has modified package.json to isntall latest wrtc
+# it has modified package.json to install latest wrtc
 $ git clone https://github.com/sachkosm/blockchain 
 
 # Go into the repository
