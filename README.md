@@ -23,10 +23,15 @@ command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/seanseany/blockchain
+# it has modified package.json to isntall latest wrtc
+$ git clone https://github.com/sachkosm/blockchain 
 
 # Go into the repository
 $ cd blockchain
+
+#On windows
+#open cmd as administrator -> shift+right click -> run as administrator
+npm install --global windows-build-tools
 
 # Install dependencies
 $ npm install
